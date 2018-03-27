@@ -1,0 +1,8 @@
+{
+  "name": "liveweather",
+  "app_id": "9598479d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
